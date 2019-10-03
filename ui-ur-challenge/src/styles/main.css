@@ -1,0 +1,48 @@
+/*Headers */
+h1 {
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+h3 {
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+    
+}
+/* Basic Information */
+#name {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 40px;
+}
+#image {
+    display: flex;
+    width:100%;
+    justify-content: center;
+}
+#district_info{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#political_aff {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
